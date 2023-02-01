@@ -4,7 +4,7 @@
 ## O que é este projeto
 
 O trabalho Algorithms consiste na criação de algoritmos em Python.
-
+Um projeto para treinar a capacidade de resolução de diferentes problemas e melhorar a qualidade do código, melhorando a eficiência.
 
 ## Observações
 
